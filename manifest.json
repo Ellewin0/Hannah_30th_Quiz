@@ -1,0 +1,16 @@
+{
+"short_name": "Hannah 30",
+"name": "Which Hannah Are You? | 30th Birthday",
+"icons": [
+{
+"src": "./blue_dress.jpg",
+"sizes": "192x192",
+"type": "image/jpeg",
+"purpose": "any maskable"
+}
+],
+"start_url": ".",
+"display": "standalone",
+"theme_color": "#1E40AF",
+"background_color": "#F0F9FF"
+}
